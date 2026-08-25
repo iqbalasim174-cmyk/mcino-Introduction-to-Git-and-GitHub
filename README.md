@@ -1,16 +1,17 @@
-# Introduction to Git and GitHub
+ Logistics Shipping Rates
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+This repository contains a Bash script (simple-interest.sh) that calculates simple interest based on user input.
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
+### How it works
 
-_© 2022 XYZ, Inc._
+The script prompts the user to enter the following inputs:
+
+- **Principal** (P) — the initial amount of money
+
+- **Rate of Interest** (R) — the annual interest rate (in percentage)
+
+- **Time Period** (T) — the time period in years
+
+### Formula
